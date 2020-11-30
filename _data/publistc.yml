@@ -1,0 +1,200 @@
+- title: "Geo-Indistinguishability for Crowdsourced-Based Radio Environment Map Construction"
+  image: SCAUweb.jpg
+  description:
+  authors:
+    S Amin,  L Li,  Y Guo, M Pan, Y Gong
+  link:
+    url: 
+    display: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020.
+  highlight: 0
+
+- title: "Trading Data For Learning: Incentive Mechanism For On-Device Federated Learning"
+  image: SCAUweb.jpg
+  description:
+  authors:
+    R Hu, Y Gong
+  link:
+    url: https://arxiv.org/pdf/2009.05604.pdf
+    display: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020.
+  highlight: 0
+
+
+- title: "Certified Robustness of Graph Classification against Topology Attack with Randomized Smoothing"
+  image: gao_globecom2.png
+  description: Recent studies show that graph-based machine learning models are especially vulnerable to adversarial perturbations due to the non i.i.d nature of graph data. By adding or deleting a small number of edges in the graph, adversaries could greatly change the graph label predicted by a graph classification model. In this work, we propose to build a smoothed graph classification model with certified robustness guarantee. 
+  authors:
+    Z Gao, R Hu, Y Gong
+  link:
+    url: https://arxiv.org/pdf/2009.05872.pdf
+    display: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020.
+  highlight: 1
+
+- title: "COVID-19 Vulnerability Map Construction via Location Privacy Preserving Mobile Crowdsourcing"
+  image: SCAUweb.jpg
+  description:
+  authors:
+    R Chen, L Li, J Chen, R Hou, Y Gong, Y Guo, M Pan
+  link:
+    url: 
+    display: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020.
+  highlight: 0
+
+- title: "Privacy-Preserving Personalized Federated Learning"
+  image: SCAUweb.jpg
+  description:
+  authors:
+    R Hu, Y, Guo, H. Li, Q. Pei, Y. Gong
+  link:
+    url: https://ieeexplore.ieee.org/document/9149207
+    display: IEEE ICC, Dublin, Ireland, June 7-11, 2020. 
+  highlight: 0
+
+- title: "Targeted Poisoning Attacks on Social Recommender Systems"
+  image: rui_globecom19.png
+  description: Social recommendations rely on one’s social connections to make personalized recommendations. However, an adversarial party could compromise the recommendations by exploiting users' social connections. We propose targeted poisoning attacks against social recommender systems by injecting fake ratings and social connections.
+  authors:
+    R Hu, Y Guo, M Pan, Y Gong
+  link:
+    url: https://ieeexplore.ieee.org/document/9013539
+    display: IEEE GLOBECOM, Hawaii, Dec. 9-13, 2019. 
+  highlight: 1
+
+- title: "Robust Truth Discovery Against Data Poisoning in Mobile Crowdsensing"
+  image: SCAUweb.jpg
+  description:
+  authors:
+    Z Huang, M Pan, Y Gong
+  link:
+    url: https://ieeexplore.ieee.org/document/9013890
+    display: IEEE GLOBECOM, Hawaii, Dec. 9-13, 2019. 
+  highlight: 0
+  
+- title: "Dynamic Cache Placement, Node Association, and Power Allocation in Fog Aided Networks"
+  image: SCAUweb.jpg
+  description:
+  authors:
+    R Li, L Wang, Y Gong, M Song, M Pan, Z Han
+  link:
+    url: https://ieeexplore.ieee.org/document/9013157
+    display: IEEE GLOBECOM, Hawaii, Dec. 9-13, 2019. 
+  highlight: 0
+
+- title: "Stochastic ADMM Based Distributed Machine Learning with Differential Privacy"
+  image: SCAUweb.jpg
+  description:
+  authors:
+     J Ding, S Errapotu, H Zhang, Y Gong, M Pan and Z Han,
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-37228-6_13
+    display: EAI SecureComm, Orlando, Oct. 23-25, 2019.
+  highlight: 0
+
+- title: "Practical Collaborative Learning for Crowdsensing in the Internet of Things with Differential Privacy"
+  image: SCAUweb.jpg
+  description:
+  authors:
+     Y Guo, Y Gong
+  link:
+    url: https://ieeexplore.ieee.org/document/8433181
+    display: IEEE CNS, Beijing, China, May 30 - June 1, 2018.
+  highlight: 0
+
+- title: "Mitigating Traffic Analysis Attack in Smartphones with Edge Network Assistance"
+  image: SCAUweb.jpg
+  description:
+  authors:
+     Y Hu, X Li, J Liu, H Ding, Y Gong, Y Fang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8422190
+    display: IEEE ICC, Kansas City, MO, May 20-24, 2018.
+  highlight: 0
+  
+- title: "Primary Users' Operational Privacy Preservation via Data-Driven Optimization"
+  image: SCAUweb.jpg
+  description:
+  authors:
+     J Wang, Y Gong, L Qian, R  Jantti, M Pan, Z Han
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8254108
+    display: IEEE GLOBECOM (Best Paper Award), Singapore, December 4-8, 2017. 
+  highlight: 0
+
+- title: "Differential Location Privacy for Crowdsourced Spectrum Sensing"
+  image: SCAUweb.jpg
+  description:
+  authors:
+     Z Huang, Y Gong
+  link:
+    url: https://ieeexplore.ieee.org/document/8228652
+    display: IEEE CNS, Las Vegas, NV, October 9-11, 2017.
+  highlight: 0
+ 
+- title: "Privacy-Preserving Genome-Aware Remote Health Monitoring"
+  image: SCAUweb.jpg
+  description:
+  authors:
+      Y Gong, C Zhang, Y Hu, and Y Fang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7842172
+    display: IEEE GLOBECOM, Washington, D.C., December 4-8, 2016.
+  highlight: 0
+
+- title: "A Firewall of Two Clouds: Preserving Outsourced Firewall Policy Confidentiality with Heterogeneity"
+  image: SCAUweb.jpg
+  description:
+  authors:
+      L Wei, C Zhang, Y Gong, Y Fang, and K Chen
+  link:
+    url: https://ieeexplore.ieee.org/document/7841497
+    display: IEEE GLOBECOM, Washington, D.C., December 4-8, 2016.
+  highlight: 0
+  
+- title: "Privacy-Preserving Collaborative Learning for Mobile Health Monitoring"
+  image: SCAUweb.jpg
+  description:
+  authors:
+      Y Gong, Y Fang, and Y Guo,
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7417841
+    display: IEEE GLOBECOM, San Diego, CA, December 6-10, 2015.
+  highlight: 0
+
+- title: "A Privacy-Preserving Task Recommendation Framework for Mobile Crowdsourcing"
+  image: SCAUweb.jpg
+  description:
+  authors:
+      Y Gong, Y Guo, and Y Fang
+  link:
+    url: https://ieeexplore.ieee.org/document/7036871
+    display: IEEE GLOBECOM, Austin, TX, December 8-12, 2014.
+  highlight: 0
+
+- title: "Stochastic Minimization of Imbalance Cost for a Virtual Power Plant in Electricity Markets"
+  image: SCAUweb.jpg
+  description:
+  authors:
+       Y Guo, Y Gong, Y Fang, and P Khargonekar
+  link:
+    url: https://ieeexplore.ieee.org/document/6816372
+    display: IEEE ISGT, Washington, DC, February 19-22, 2014.
+  highlight: 0
+
+- title: "Optimal Power and Workload Management for Green Data Centers with Thermal Storage"
+  image: SCAUweb.jpg
+  description:
+  authors:
+       Y Guo,  Y Gong, Y Fang, P Khargonekar, X Geng
+  link:
+    url: https://ieeexplore.ieee.org/document/6831509
+    display: IEEE GLOBECOM, Atlanta, GA, December 9-13 (2013)
+  highlight: 0
+
+- title: "Quasi-Convex Optimization of Metrics in Biometric Score Fusion"
+  image: SCAUweb.jpg
+  description:
+  authors:
+       Y Gong, J Chen, G Su
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6005982
+    display: ICIG, Hefei, China, August 12-15, 2011.
+  highlight: 0

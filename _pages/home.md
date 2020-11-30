@@ -1,76 +1,69 @@
 ---
-title: "Allan Lab - Home"
+title: "Yanmin Gong - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Yanmin Gong at UTSA (The University of Texas at San Antonio)."
 sitemap: false
 permalink: /
 ---
-
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
-
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 7" />
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+<!-- <div class="well row" style="padding:20px;"> -->
+<!-- <table style="width:1000px">
+<tr>
+<td>
+    <img width="100" src="folder/gongyanmin3.jpg" align="right" alt="Picture of Yanmin Gong">
+</td>
+<td>
+    <h2>Yanmin Gong</h2>
+    Assistant Professor<br>
+    Department of Electrical and Computer Engineering<br>
+    University of Texas at San Antonio<br>
+    BSE 1.536<br>
+    San Antonio, TX 78249<br>
+    <br>
+    <b>Phone</b>: (210) 458-5086<br>
+    <b>Email</b>: yanmin.gong@utsa.edu<br>
+</td>
+</tr>
+</table> -->
+<div class="col-sm-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg" class="img-responsive" width="80%" style="float: left" />
 </div>
+<div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
+  <!-- <ul style="overflow: hidden"> -->
+Assistant Professor<br>
+Electrical and Computer Engineering<br>
+University of Texas at San Antonio<br>
+Email: yanmin.gong@utsa.edu<br>
+Office: BSE 1.536<br>
+Phone: (210) 458-5086<br>
+	
+  <!-- </ul> -->
+</div>
+<hr>
 
 
 
+### Short Bio
+Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio. She received her Ph.D. degree from the Department of Electrical and Computer Engineering at the University of Florida in 2016. She received the B.E. degree in electronics and information engineering at Huazhong University of Science & Technology, Wuhan, China, in 2009, and the M.S. degree in information and communication engineering at Tsinghua University, Beijing, China, in 2012.
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+<!-- <hr> -->
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+### Research Interests
+My current research interests focus on security and privacy in big data, machine learning, Internet of things, cyber-physical systems, mobile computing, and wireless networks.
+    
+<!-- <hr> -->
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+### Honors and Awards
+- NSF CISE CRII Award, 2019
+- Distinguished TPC Member, IEEE INFOCOM, 2019
+- UT Rising STARs Award, 2019
+- President's Cup Award, Oklahoma State University, 2018
+- IEEE GLOBECOM Best Paper Award, 2017
+- Outstanding Achievement Award, University of Florida 2012, 2013
+- Guanghua Scholarship for Excellent Students, Tsinghua University 2011
+- Providence Scholarship, Tsinghua University 2011
+- Outstanding Graduate Award, Huazhong University of Science and Technology 2009
+- National Scholarship, Ministry of Education of China 2008
 
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+<!-- </div> -->
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>

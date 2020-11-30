@@ -1,19 +1,21 @@
 ---
-title: "Allan Lab - Team"
+title: "NISP Lab"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "NISP Lab: Group members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
-
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!-- # Group Members -->
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+ <!-- **We are for new  students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
-## Staff
+
+<!-- Jump to [phd students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+ -->
+
+### PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +80,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+### Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -89,6 +91,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -131,7 +134,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
+<!-- 
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -189,8 +192,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endfor %}
 </div>
 
-</div>
+</div> -->
 
-
+<!-- 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+ -->

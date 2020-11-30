@@ -1,20 +1,80 @@
 ---
-title: "Allan Lab - Publications"
+title: "Yanmin Gong - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Yanmin Gong -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
-# Publications
+<!-- ### Publications -->
 
-## Group highlights
+### Recent Publications
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en), [Researcher Gate](https://www.researchgate.net/profile/Yanmin_Gong2))
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.publistj %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% for publi in site.data.publistc %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% for publi in site.data.publistw %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -52,9 +112,28 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+### Full List
+#### Peer-Reviewed Journal Articles
 
-{% for publi in site.data.publist %}
+{% for publi in site.data.publistj %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+#### Conference Proceedings
+
+{% for publi in site.data.publistc %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+#### Workshop Papers and Posters
+
+{% for publi in site.data.publistw %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
