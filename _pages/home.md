@@ -28,16 +28,14 @@ permalink: /
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg" class="img-responsive" width="80%" style="float: left" />
 </div>
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
-<!-- <ul style="overflow: hidden"> -->
+<ul style="overflow: hidden">
 Assistant Professor<br>
 Electrical and Computer Engineering<br>
 University of Texas at San Antonio<br>
 Email: yanmin.gong@utsa.edu<br>
 Office: BSE 1.536<br>
 Phone: (210) 458-5086<br>
-    
-    
-<!-- </ul> -->
+</ul>
 </div>
 
 
