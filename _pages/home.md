@@ -5,25 +5,6 @@ excerpt: "Yanmin Gong at UTSA (The University of Texas at San Antonio)."
 sitemap: false
 permalink: /
 ---
-<!-- <div class="well row" style="padding:20px;"> -->
-<!-- <table style="width:1000px">
-<tr>
-<td>
-    <img width="100" src="folder/gongyanmin3.jpg" align="right" alt="Picture of Yanmin Gong">
-</td>
-<td>
-    <h2>Yanmin Gong</h2>
-    Assistant Professor<br>
-    Department of Electrical and Computer Engineering<br>
-    University of Texas at San Antonio<br>
-    BSE 1.536<br>
-    San Antonio, TX 78249<br>
-    <br>
-    <b>Phone</b>: (210) 458-5086<br>
-    <b>Email</b>: yanmin.gong@utsa.edu<br>
-</td>
-</tr>
-</table> -->
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg" class="img-responsive" width="80%" style="float: left" />
 </div>
