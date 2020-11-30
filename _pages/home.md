@@ -45,14 +45,11 @@ Phone: (210) 458-5086<br>
 ### Short Bio
 Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio. She received her Ph.D. degree from the Department of Electrical and Computer Engineering at the University of Florida in 2016. She received the B.E. degree in electronics and information engineering at Huazhong University of Science & Technology, Wuhan, China, in 2009, and the M.S. degree in information and communication engineering at Tsinghua University, Beijing, China, in 2012.
 
-<!-- <hr> -->
-
 ### Research Interests
 My current research interests focus on security and privacy in big data, machine learning, Internet of things, cyber-physical systems, mobile computing, and wireless networks.
     
-<!-- <hr> -->
 
-### Honors and Awards
+### Selected Honors and Awards
 - NSF CISE CRII Award, 2019
 - Distinguished TPC Member, IEEE INFOCOM, 2019
 - UT Rising STARs Award, 2019
@@ -63,7 +60,3 @@ My current research interests focus on security and privacy in big data, machine
 - Providence Scholarship, Tsinghua University 2011
 - Outstanding Graduate Award, Huazhong University of Science and Technology 2009
 - National Scholarship, Ministry of Education of China 2008
-
-
-<!-- </div> -->
-
