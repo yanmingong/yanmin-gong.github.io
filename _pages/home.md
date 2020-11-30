@@ -36,8 +36,6 @@ Email: yanmin.gong@utsa.edu<br>
 Office: BSE 1.536<br>
 Phone: (210) 458-5086<br>
     <br>
-    <br>
-    <br>
 <!-- </ul> -->
 </div>
 
