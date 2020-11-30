@@ -15,8 +15,6 @@ The Networking Intelligence Security and Privacy (NISP) Lab at University of Tex
 <center><img src="{{ site.url }}{{ site.baseurl }}/images/respic/research_key.jpg" width="75%"></center>
 </figure>
 
-<!-- ![center-aligned-image]({{ site.url }}{{ site.baseurl }}/images/respic/research_key.jpg){: .align-center} -->
-
 ### Current Area of Interests
 - Security and Privacy for Machine Learning
 - Machine learning in wireless networks
