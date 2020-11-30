@@ -7,7 +7,7 @@ permalink: /teaching/
 ---
 <!-- <div class="well"> -->
 
-### Course Instruction
+### Courses
 
 #### The University of Texas at San Antonio
 - EE 4673/EE 5283: Introduction to Computer Networks, Fall 2019 
