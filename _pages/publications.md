@@ -11,7 +11,7 @@ permalink: /publications/
 
 ### Recent Publications
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en), [Researcher Gate](https://www.researchgate.net/profile/Yanmin_Gong2))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publistj %}
