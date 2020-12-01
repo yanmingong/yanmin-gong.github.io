@@ -18,8 +18,9 @@ The Networking Intelligence Security and Privacy (NISP) Lab at University of Tex
 ### Current Area of Interests
 - Security and Privacy for Machine Learning
 - Machine learning in wireless networks
-- Internet of things: robotics and connected vehicles
 - Wireless security
+- Internet of things: robotics and connected vehicles
+
 
 ### Funding
 We are grateful for funding from National Science Foundation, Air Force Research Lab, and University of Texas Systems.
