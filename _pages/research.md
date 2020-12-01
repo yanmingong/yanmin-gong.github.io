@@ -22,7 +22,7 @@ The Networking Intelligence Security and Privacy (NISP) Lab at University of Tex
 - Wireless security
 
 ### Funding
-We are grateful for funding from National Science Foundation, Airforce Research Lab, and University of Texas Systems.
+We are grateful for funding from National Science Foundation, Air Force Research Lab, and University of Texas Systems.
 <center><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AFRL.png" style="width: 110px">
