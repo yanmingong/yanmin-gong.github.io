@@ -16,11 +16,11 @@ permalink: /service/
 - Publicity Chair, IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS) 2017
 
 #### Panel Review
-- National Science Foundation (NSF) Panelist, 2017, 2018, 2019
+- National Science Foundation (NSF) Panelist, 2017 -- 2019
 
 #### TPC Members
 - IEEE International Conference on Computer Communications (INFOCOM), 2017 -- 2021
-- IEEE  Conference on Communications and Network Security (CNS), 2017, 2018
+- IEEE  Conference on Communications and Network Security (CNS), 2017 -- 2018
 - IEEE International Conference on Communications (ICC), 2018
 - IEEE/CIC International Conference on Communications in China (ICCC), 2017
 - International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA/AIE), 2017
