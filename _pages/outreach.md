@@ -28,7 +28,7 @@ permalink: /outreach/
 </center>
 
 ### Outreach for Minorities
-- Has been serving as a faculty mentor of the <a href="https://ok-lsamp.okstate.edu/">Oklahoma Louis Stokes Alliance for Minority Participation (OK-LSAMP)</a> (2017-2019)
+- Served as a faculty mentor of the <a href="https://ok-lsamp.okstate.edu/">Oklahoma Louis Stokes Alliance for Minority Participation (OK-LSAMP)</a> (2017-2019)
  	<center><img src="{{ site.url }}{{ site.baseurl }}/images/outreachpic/OK-LSAMP.png" alt="OK-LSAMP" style="width: 250px; height: 250px" itemprop="image"></center>
 
 <!-- ![center-aligned-image]({{ site.url }}{{ site.baseurl }}/images/respic/research_key.jpg){: .align-center} -->
