@@ -16,7 +16,7 @@ The Trustworthy and Intelligent Networked Systems (TINS) Lab at University of Te
 </figure>
 
 ### Current Area of Interests
-- Security and Privacy for Machine Learning
+- Security and privacy for machine learning
 - Machine learning in wireless networks
 - Wireless security
 - Internet of things: robotics and connected vehicles
