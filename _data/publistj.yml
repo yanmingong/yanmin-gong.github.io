@@ -1,10 +1,10 @@
-- link:
-    display: "Personalized Federated Learning with Differential Privacy"
-    url: https://ieeexplore.ieee.org/document/9082603
+- title:  IEEE Internet of Things Journal (IoT-J) 7, 10 (2020).
   image: rui_IoTJ.png
   authors: R Hu, Y Guo, H Li, Q Pei, and Y Gong
   description: To meet the increasing demand of personalized services, machine learned models should capture their individual characteristics. This article proposes a privacy-preserving approach for learning effective personalized models on distributed user data while guaranteeing the differential privacy of user data.
-  display:  IEEE Internet of Things Journal (IoT-J) 7, 10 (2020).
+  link:
+    display: "Personalized Federated Learning with Differential Privacy"
+    url: https://ieeexplore.ieee.org/document/9082603
   highlight: 1
   news2:
 
