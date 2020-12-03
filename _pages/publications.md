@@ -137,6 +137,5 @@ permalink: /publications/
 
 1. <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
   <em>{{ publi.authors }} </em><br />{{ publi.title }}
-{% endfor %}
 
 {% endfor %}
