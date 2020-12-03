@@ -109,14 +109,14 @@
     display: IEEE ICC, Kansas City, MO, May 20-24, 2018.
   highlight: 0
   
-- title: "Primary Users' Operational Privacy Preservation via Data-Driven Optimization"
+- title: "Primary Users' Operational Privacy Preservation via Data-Driven Optimization **[Best Paper Award]**"
   image: SCAUweb.jpg
   description:
   authors:
      J Wang, Y Gong, L Qian, R  Jantti, M Pan, Z Han
   link:
     url: https://ieeexplore.ieee.org/abstract/document/8254108
-    display: IEEE GLOBECOM (Best Paper Award), Singapore, December 4-8, 2017. 
+    display: IEEE GLOBECOM , Singapore, December 4-8, 2017. 
   highlight: 0
 
 - title: "Differential Location Privacy for Crowdsourced Spectrum Sensing"
