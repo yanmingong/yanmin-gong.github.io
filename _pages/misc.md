@@ -42,27 +42,27 @@ permalink: /misc/
 - [IJCAI 2021](https://ijcai-21.org/cfp/), submission deadline: January 12, 2021. Montreal.
 - [ICML 2021](https://icml.cc/Conferences/2021), submission deadline: Abstract January 28, 2021; Full Paper Feb. 4, 2021.
 - [KDD 2021](https://www.kdd.org/kdd2021/calls/view/call-for-research-track-papers-sigkdd-2021), submission deadline: February 8, 2021. 
-- <a href="https://petsymposium.org/index.php" target="_blank"> ACM WiSec (Conference on Security and Privacy in Wireless and Mobile Networks) </a>, submission deadline: March 1, 2018. 
+- [ACM WiSec](https://petsymposium.org/index.php), submission deadline: March 1, 2018. 
 - Milcom 2018, submission deadline: around April, 2018.
-- <a href="http://vldb2018.lncc.br/submission-guidelines.html" target="_blank">International Conference on Very Large Data Bases</a>, rolling deadlines.
+- International Conference on Very Large Data Bases, rolling deadlines.
 - EAI SecureComm, submission deadline: May 4, 2020. 
 - IEEE ICNP, submission deadline: May 19, 2020.
-- <a href="https://www.usenix.org/conference/usenixsecurity21" target="_blank"> Usenix Security</a>, submission deadline: 12 Jun 2020. VANCOUVER, B.C., CANADA.
-- <a href="https://www.acsac.org/2020/">ACSAC 2020</a>, submission deadline: 13 Jun 2020. Austin, TX, USA. 
+- Usenix Security, submission deadline: 12 Jun 2020. VANCOUVER, B.C., CANADA.
+- ACSAC 2020, submission deadline: 13 Jun 2020. Austin, TX, USA. 
 - ACM International Conference on Information and Knowledge Management (CIKM), June 2021.
-- <a href="http://www.icde2021.gr/">ICDE 2021</a>, submission deadline: 10 June 2020. Chania, Greece. 
-- <a href="https://www.ndss-symposium.org/ndss-2021/">NDSS 2021</a>, submission deadline: 18 Jul 2020. San Diego, CA, USA.
-- <a href="https://wpes.tech/2020/">WPES 2020</a>, submission deadline: July 23, 2020. Orlando, USA 
+- ICDE 2021, submission deadline: 10 June 2020. Chania, Greece. 
+- NDSS 2021, submission deadline: 18 Jul 2020. San Diego, CA, USA.
+- WPES 2020, submission deadline: July 23, 2020. Orlando, USA 
 - IEEE Infocom 2021, submission deadline: 15 Aug., 2020. Vancouver, Canada. 
-- AAAI 
-- <a href="https://asiaccs2021.comp.polyu.edu.hk/" target="_blank">ACM ASIACCS 2021</a>,submission deadline: 21 August 2020. HongKong, China.
-- <a href="https://www.ieee-security.org/TC/SP2021/">IEEE Symposium on Security and Privacy</a>, submission deadline: 4 Sep 2020.
+- AAAI, August, 2021.
+- ACM ASIACCS 2021,submission deadline: 21 August 2020. HongKong, China.
+- IEEE Symposium on Security and Privacy, submission deadline: 4 Sep 2020.
 - IEEE PerCom, submission deadline: September 19, 2018. 
-- <a href="http://www2021.thewebconf.org/" target="_blank"> The Web Conference (formerly International World Wide Web Conference)</a>, submission deadline: around Oct. 2020. 
-- <a href="https://petsymposium.org">PETS 2020</a> Montréal, Canada.
+- The Web Conference (formerly International World Wide Web Conference), submission deadline: around Oct. 2020. 
+- PETS 2020 Montréal, Canada.
 - IEEE ICC, submission deadline: Oct. 14, 2019.
-- <a href="https://www.sigmobile.org/mobihoc/2018/" target="_blank">The Nineteenth International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc) </a>, submission deadline November 30, 2020. Shangai, China.
-- <a href="https://dsn2020.webs.upv.es" target="_blank">IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</a>, submission deadline: Dec. 3, 2019.
+- MobiHoc, submission deadline November 30, 2020. Shangai, China.
+- IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), submission deadline: Dec. 3, 2019.
 - [AsiaCCS 2021](https://asiaccs2021.comp.polyu.edu.hk/datescalls/call-for-papers/). Second deadline: Dec. 11, 2020.
 
 ### Other Publication Venues
