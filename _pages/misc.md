@@ -41,7 +41,7 @@ permalink: /misc/
 - <a href="https://icdcs2020.sg/" target="_blank">IEEE ICDCS 2020</a>, submission deadline: Jan. 6, 2020. 
 - IJCAI 2020, submission deadline: January 15, 2020. Japan. 
 - ICML 2020, submission deadline: January 7, 2020.
-- <a href="https://www.kdd.org/kdd2020/" target="_blank"> KDD 2020</a>, submission deadline: around February, 2020. 
+- <a href="https://www.kdd.org/kdd2021/calls/view/call-for-research-track-papers-sigkdd-2021" target="_blank"> KDD 2020</a>, submission deadline: February 8, 2021. 
 - <a href="https://petsymposium.org/index.php" target="_blank"> ACM WiSec (Conference on Security and Privacy in Wireless and Mobile Networks) </a>, submission deadline: March 1, 2018. 
 - Milcom 2018, submission deadline: around April, 2018. 
 - <a href="http://vldb2018.lncc.br/submission-guidelines.html" target="_blank">International Conference on Very Large Data Bases</a>, rolling deadlines.
@@ -54,6 +54,7 @@ permalink: /misc/
 - <a href="https://www.ndss-symposium.org/ndss-2021/">NDSS 2021</a>, submission deadline: 18 Jul 2020. San Diego, CA, USA.
 - <a href="https://wpes.tech/2020/">WPES 2020</a>, submission deadline: July 23, 2020. Orlando, USA 
 - IEEE Infocom 2021, submission deadline: 15 Aug., 2020. Vancouver, Canada. 
+- AAAI 
 - <a href="https://asiaccs2021.comp.polyu.edu.hk/" target="_blank">ACM ASIACCS 2021</a>,submission deadline: 21 August 2020. HongKong, China.
 - <a href="https://www.ieee-security.org/TC/SP2021/">IEEE Symposium on Security and Privacy</a>, submission deadline: 4 Sep 2020.
 - IEEE PerCom, submission deadline: September 19, 2018. 
