@@ -14,7 +14,7 @@
   authors:
     R Hu, Y Gong
   link:
-    url: https://arxiv.org/pdf/2009.05604.pdf
+    url: 2009.05604.pdf
     display: "Trading Data For Learning: Incentive Mechanism For On-Device Federated Learning"
   highlight: 0
 
@@ -25,7 +25,7 @@
   authors:
     Z Gao, R Hu, Y Gong
   link:
-    url: https://arxiv.org/pdf/2009.05872.pdf
+    url: 2009.05872.pdf
     display: "Certified Robustness of Graph Classification against Topology Attack with Randomized Smoothing"
   highlight: 1
 
@@ -45,7 +45,7 @@
   authors:
     R Hu, Y, Guo, H. Li, Q. Pei, Y. Gong
   link:
-    url: https://ieeexplore.ieee.org/document/9149207
+    url: 09149207.pdf
     display: "Privacy-Preserving Personalized Federated Learning"
   highlight: 0
 
@@ -55,7 +55,7 @@
   authors:
     R Hu, Y Guo, M Pan, Y Gong
   link:
-    url: https://ieeexplore.ieee.org/document/9013539
+    url: 09013539.pdf
     display: "Targeted Poisoning Attacks on Social Recommender Systems"
   highlight: 1
 
@@ -65,7 +65,7 @@
   authors:
     Z Huang, M Pan, Y Gong
   link:
-    url: https://ieeexplore.ieee.org/document/9013890
+    url: 9013890.pdf
     display: "Robust Truth Discovery Against Data Poisoning in Mobile Crowdsensing"
   highlight: 0
   
@@ -75,7 +75,7 @@
   authors:
     R Li, L Wang, Y Gong, M Song, M Pan, Z Han
   link:
-    url: https://ieeexplore.ieee.org/document/9013157
+    url: 09013157.pdf
     display: "Dynamic Cache Placement, Node Association, and Power Allocation in Fog Aided Networks"
   highlight: 0
 
@@ -85,7 +85,7 @@
   authors:
      J Ding, S Errapotu, H Zhang, Y Gong, M Pan and Z Han,
   link:
-    url: https://link.springer.com/chapter/10.1007/978-3-030-37228-6_13
+    url: Securecomm.pdf
     display: "Stochastic ADMM Based Distributed Machine Learning with Differential Privacy"
   highlight: 0
 
@@ -95,7 +95,7 @@
   authors:
      Y Guo, Y Gong
   link:
-    url: https://ieeexplore.ieee.org/document/8433181
+    url: 08433181.pdf
     display: "Practical Collaborative Learning for Crowdsensing in the Internet of Things with Differential Privacy"
   highlight: 0
 
@@ -105,7 +105,7 @@
   authors:
      Y Hu, X Li, J Liu, H Ding, Y Gong, Y Fang
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/8422190
+    url: 08422190.pdf
     display: "Mitigating Traffic Analysis Attack in Smartphones with Edge Network Assistance"
   highlight: 0
   
@@ -115,7 +115,7 @@
   authors:
      J Wang, Y Gong, L Qian, R  Jantti, M Pan, Z Han
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/8254108
+    url: 08254108.pdf
     display: "Primary Users' Operational Privacy Preservation via Data-Driven Optimization **[Best Paper Award]**"
   highlight: 0
 
@@ -125,7 +125,7 @@
   authors:
      Z Huang, Y Gong
   link:
-    url: https://ieeexplore.ieee.org/document/8228652
+    url: 08228652.pdf
     display: "Differential Location Privacy for Crowdsourced Spectrum Sensing"
   highlight: 0
  
@@ -135,7 +135,7 @@
   authors:
       Y Gong, C Zhang, Y Hu, and Y Fang
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/7842172
+    url: 07842172.pdf
     display: "Privacy-Preserving Genome-Aware Remote Health Monitoring"
   highlight: 0
 
@@ -145,7 +145,7 @@
   authors:
       L Wei, C Zhang, Y Gong, Y Fang, and K Chen
   link:
-    url: https://ieeexplore.ieee.org/document/7841497
+    url: 07841497.pdf
     display: "A Firewall of Two Clouds: Preserving Outsourced Firewall Policy Confidentiality with Heterogeneity"
   highlight: 0
   
@@ -155,7 +155,7 @@
   authors:
       Y Gong, Y Fang, and Y Guo,
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/7417841
+    url: 07417841.pdf
     display: "Privacy-Preserving Collaborative Learning for Mobile Health Monitoring"
   highlight: 0
 
@@ -165,7 +165,7 @@
   authors:
       Y Gong, Y Guo, and Y Fang
   link:
-    url: https://ieeexplore.ieee.org/document/7036871
+    url: 07036871.pdf
     display: "A Privacy-Preserving Task Recommendation Framework for Mobile Crowdsourcing"
   highlight: 0
 
@@ -175,7 +175,7 @@
   authors:
        Y Guo, Y Gong, Y Fang, and P Khargonekar
   link:
-    url: https://ieeexplore.ieee.org/document/6816372
+    url: 06816372.pdf
     display: "Stochastic Minimization of Imbalance Cost for a Virtual Power Plant in Electricity Markets"
   highlight: 0
 
@@ -185,7 +185,7 @@
   authors:
        Y Guo,  Y Gong, Y Fang, P Khargonekar, X Geng
   link:
-    url: https://ieeexplore.ieee.org/document/6831509
+    url: 06831509.pdf
     display: "Optimal Power and Workload Management for Green Data Centers with Thermal Storage"
   highlight: 0
 
@@ -195,6 +195,6 @@
   authors:
        Y Gong, J Chen, G Su
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/6005982
+    url: 06005982.pdf
     display: "Quasi-Convex Optimization of Metrics in Biometric Score Fusion"
   highlight: 0
