@@ -37,13 +37,13 @@ permalink: /misc/
 <hr>
 
 ### Conference Deadlines
-- ACM CCS 2020, submission deadline: 21 Jan 2021.
-- <a href="https://icdcs2020.sg/" target="_blank">IEEE ICDCS 2020</a>, submission deadline: Jan. 6, 2020. 
-- IJCAI 2020, submission deadline: January 15, 2020. Japan. 
-- ICML 2020, submission deadline: January 7, 2020.
-- <a href="https://www.kdd.org/kdd2021/calls/view/call-for-research-track-papers-sigkdd-2021" target="_blank"> KDD 2020</a>, submission deadline: February 8, 2021. 
+- ACM CCS 2021, submission deadline: 21 Jan 2021.
+- [IEEE ICDCS 2020](https://icdcs2021.us/cfp-html), abstract submission deadline: Jan. 6, 2021; full submission deadline: Jan. 13, 2021. Washington DC.
+- [IJCAI 2021](https://ijcai-21.org/cfp/), submission deadline: January 12, 2021. Montreal.
+- [ICML 2021](https://icml.cc/Conferences/2021), submission deadline: Abstract January 28, 2021; Full Paper Feb. 4, 2021.
+- [KDD 2021](https://www.kdd.org/kdd2021/calls/view/call-for-research-track-papers-sigkdd-2021), submission deadline: February 8, 2021. 
 - <a href="https://petsymposium.org/index.php" target="_blank"> ACM WiSec (Conference on Security and Privacy in Wireless and Mobile Networks) </a>, submission deadline: March 1, 2018. 
-- Milcom 2018, submission deadline: around April, 2018. 
+[comment]: # - Milcom 2018, submission deadline: around April, 2018. 
 - <a href="http://vldb2018.lncc.br/submission-guidelines.html" target="_blank">International Conference on Very Large Data Bases</a>, rolling deadlines.
 - EAI SecureComm, submission deadline: May 4, 2020. 
 - IEEE ICNP, submission deadline: May 19, 2020.
@@ -63,6 +63,7 @@ permalink: /misc/
 - IEEE ICC, submission deadline: Oct. 14, 2019.
 - <a href="https://www.sigmobile.org/mobihoc/2018/" target="_blank">The Nineteenth International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc) </a>, submission deadline November 30, 2020. Shangai, China.
 - <a href="https://dsn2020.webs.upv.es" target="_blank">IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</a>, submission deadline: Dec. 3, 2019.
+- [AsiaCCS 2021](https://asiaccs2021.comp.polyu.edu.hk/datescalls/call-for-papers/). Second deadline: Dec. 11, 2020.
 
 ### Other Publication Venues
 - IEEE Transactions on Information Forensics and Security.
