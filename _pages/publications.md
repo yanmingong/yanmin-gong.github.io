@@ -55,7 +55,7 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit><a href="{{ site.url }}{{ site.baseurl }}/publications/{{ publi.link.url }}">{{ publi.link.display }}</a></pubtit>
+  <pubtit><a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a></pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
@@ -85,7 +85,7 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit><a href="{{ site.url }}{{ site.baseurl }}/publications/{{ publi.link.url }}">{{ publi.link.display }}</a></pubtit>
+  <pubtit><a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a></pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
@@ -117,7 +117,7 @@ permalink: /publications/
 
 {% for publi in site.data.publistj %}
 
-1. <a href="{{ site.url }}{{ site.baseurl }}/publications/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+1. <a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
   <em>{{ publi.authors }} </em><br />{{ publi.title }}
 
 {% endfor %}
@@ -126,7 +126,7 @@ permalink: /publications/
 
 {% for publi in site.data.publistc %}
 
-1. <a href="{{ site.url }}{{ site.baseurl }}/publications/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+1. <a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
   <em>{{ publi.authors }} </em><br />{{ publi.title }}
 
 {% endfor %}
@@ -135,7 +135,7 @@ permalink: /publications/
 
 {% for publi in site.data.publistw %}
 
-1. <a href="{{ site.url }}{{ site.baseurl }}/publications/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+1. <a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
   <em>{{ publi.authors }} </em><br />{{ publi.title }}
 
 {% endfor %}
