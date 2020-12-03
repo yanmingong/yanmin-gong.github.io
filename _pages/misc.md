@@ -43,7 +43,7 @@ permalink: /misc/
 - [ICML 2021](https://icml.cc/Conferences/2021), submission deadline: Abstract January 28, 2021; Full Paper Feb. 4, 2021.
 - [KDD 2021](https://www.kdd.org/kdd2021/calls/view/call-for-research-track-papers-sigkdd-2021), submission deadline: February 8, 2021. 
 - <a href="https://petsymposium.org/index.php" target="_blank"> ACM WiSec (Conference on Security and Privacy in Wireless and Mobile Networks) </a>, submission deadline: March 1, 2018. 
-[- Milcom 2018, submission deadline: around April, 2018.] # 
+- Milcom 2018, submission deadline: around April, 2018.
 - <a href="http://vldb2018.lncc.br/submission-guidelines.html" target="_blank">International Conference on Very Large Data Bases</a>, rolling deadlines.
 - EAI SecureComm, submission deadline: May 4, 2020. 
 - IEEE ICNP, submission deadline: May 19, 2020.
