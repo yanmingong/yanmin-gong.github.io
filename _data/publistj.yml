@@ -8,151 +8,151 @@
   highlight: 1
   news2:
 
-- title: "Joint Task Offloading and Resource Allocation in UAV-Enabled Mobile Edge Computing"
+- title: IEEE Internet of Things Journal (IoT-J) 7, 4 (2020).
   image: TBG_ARPES.png
   description: 
   authors: Z Yu, Y Gong, S Gong, Y Guo
   link:
     url: https://ieeexplore.ieee.org/document/8956055
-    display:  IEEE Internet of Things Journal (IoT-J) 7, 4 (2020).
+    display:  "Joint Task Offloading and Resource Allocation in UAV-Enabled Mobile Edge Computing"
   highlight: 0
   news2:
 
-- title: "DP-ADMM: ADMM-based Distributed Learning with Differential Privacy"
+- title: IEEE Transactions on Information Forensics & Security (TIFS), vol. 15, pp. 1002-1012, (2019).
   image: dp-admm.jpg
   description: Alternating direction method of multipliers (ADMM) is a widely used tool for machine learning in distributed settings where a machine learning model is trained over distributed data sources through an interactive process of local computation and message passing. The goal of this paper is to provide differential privacy for ADMM-based distributed machine learning. 
   authors: Z Huang, R Hu, Y Guo, E Chan-Tin, and Y Gong
   link:
     url: https://ieeexplore.ieee.org/document/8772211
-    display:  IEEE Transactions on Information Forensics & Security (TIFS), vol. 15, pp. 1002-1012, (2019).
+    display:  "DP-ADMM: ADMM-based Distributed Learning with Differential Privacy"
   highlight: 1
   news2:
 
-- title: "SAFE: Secure Appliance Scheduling for Flexible and Efficient Energy Consumption for Smart Home IoT"
+- title: IEEE Internet of Things Journal (IoT-J), 5, 6 (2018). 
   image: YSR.png
   description: 
   authors: S Errapotu, J Wang, Y Gong, J Cho, M Pan, and Z Han
   link:
     url: https://ieeexplore.ieee.org/document/8445571
-    display:  IEEE Internet of Things Journal (IoT-J), 5, 6 (2018). 
+    display:  "SAFE: Secure Appliance Scheduling for Flexible and Efficient Energy Consumption for Smart Home IoT"
   highlight: 0
   
-- title: "Phased Groupwise Face Alignment"
+- title: IEEE Access, vol. 8, pp. 62415-62422 (2020).
   image: TBG_ARPES.png
   description:
   authors: G Zhang, H Qin, Y Ke, J Chen, Y Gong
   link:
     url: https://ieeexplore.ieee.org/document/9049392
-    display:  IEEE Access, vol. 8, pp. 62415-62422 (2020)
+    display:  "Phased Groupwise Face Alignment"
   highlight: 0
   news2:
 
-- title: "Joint Alignment of Image Faces"
+- title: IEEE Access, vol. 8, pp. 114884-114891 (2020).
   image: TBG_ARPES.png
   description:
   authors: G Zhang, L Pan, J Chen, Y Gong, F Liu
   link:
     url: https://ieeexplore.ieee.org/document/9120057
-    display:  IEEE Access, vol. 8, pp. 114884-114891 (2020) 
+    display:  "Joint Alignment of Image Faces"
   highlight: 0
   news2:
   
-- title: "Efficient, Effective, and Realistic Website Fingerprinting Mitigation"
+- title: EAI Transactions on Security and Safety, vol. 6, no. 20 (2019).
   image: TBG_ARPES.png
   description: 
   authors: W Cui, J Yu, Y Gong, E Chan-Tin
   link:
     url: https://eudl.eu/doi/10.4108/eai.29-1-2019.161977
-    display:  EAI Transactions on Security and Safety, vol. 6, no. 20 (2019)
+    display:  "Efficient, Effective, and Realistic Website Fingerprinting Mitigation"
   highlight: 0
   news2: 
 
-- title: "Data-Driven Optimization Based Primary Users' Operational Privacy Preservation"
+- title: IEEE Transactions on Cognitive Communications and Networking, vol. 4, no. 2, pp. 357-367 (2018).
   image: STS_news.png
   description: 
   authors: J Wang, S Errapotu, Y Gong, L Qian, R J{\"a}ntti, M Pan, and Z Han
   link:
     url: https://ieeexplore.ieee.org/document/8360509
-    display:  IEEE Transactions on Cognitive Communications and Networking, vol. 4, no. 2, pp. 357-367 (2018).
+    display:  "Data-Driven Optimization Based Primary Users' Operational Privacy Preservation"
   highlight: 0
   news2:
 
-- title: "Aggregation-Based Colocation Datacenter Energy Management in Wholesale Markets"
+- title: IEEE Transactions on Cloud Computing (2018).
   image: SmartPub.png
   description: 
   authors: Y Guo, M Pan, Y Gong
   link:
     url: https://ieeexplore.ieee.org/document/8359318
-    display: IEEE Transactions on Cloud Computing (2018)
+    display: "Aggregation-Based Colocation Datacenter Energy Management in Wholesale Markets"
   highlight: 0
   news2: 
 
-- title: "Protecting Operation-Time Privacy of Primary Users in Downlink Cognitive Two-Tier Networks"
+- title: IEEE Transactions on Vehicular Technology (TVT), vol. 67, no. 7, pp. 6561-6572 (2018).
   image: PbSpub.png
   description: 
   authors: X Dong, Y Gong, J Ma, Y Guo
   link:
     url: https://ieeexplore.ieee.org/document/8299451
-    display: IEEE Transactions on Vehicular Technology (TVT), vol. 67, no. 7, pp. 6561-6572 (2018)
+    display: "Protecting Operation-Time Privacy of Primary Users in Downlink Cognitive Two-Tier Networks"
   highlight: 0
   news2:
 
-- title: "Protecting Location Privacy for Task Allocation in Ad-Hoc Mobile Cloud Computing"
+- title: IEEE Transactions on Emerging Topics in Computing (TETC), vol. 6, no. 1, pp. 110-121 (2018).
   image: DomePub.png
   description: 
   authors: Y Gong, C Zhang, Y Fang, J Sun
   link:
     url: https://ieeexplore.ieee.org/document/7296638
-    display:  IEEE Transactions on Emerging Topics in Computing (TETC), vol. 6, no. 1, pp. 110-121 (2018)
+    display:  "Protecting Location Privacy for Task Allocation in Ad-Hoc Mobile Cloud Computing"
   highlight: 0
   news2:
 
-- title: "Dynamic Multi-Tenant Coordination for Sustainable Colocation Data Centers"
+- title: IEEE Transactions on Cloud Computing, vol. 7, no. 3 (2019).
   image: Pub_BCl.png
   description: 
   authors: Y Guo, M Pan, Y Gong, Y Fang
   link:
     url: https://ieeexplore.ieee.org/abstract/document/7911246
-    display:  IEEE Transactions on Cloud Computing, vol. 7, no. 3 (2019)
+    display:  "Dynamic Multi-Tenant Coordination for Sustainable Colocation Data Centers"
   highlight: 0
   news1:
 
-- title: "Optimal Task Recommendation for Mobile Crowdsourcing with Privacy Control"
+- title: IEEE Internet of Things Journal, vol. 3, no. 5, pp. 745-756 (2016).
   image: Fano.png
   description: 
   authors: Y Gong, L Wei, Y Guo, C Zhang, Y Fang
   link:
     url: https://ieeexplore.ieee.org/document/7365407
-    display:  IEEE Internet of Things Journal, vol. 3, no. 5, pp. 745-756 (2016)
+    display:  "Optimal Task Recommendation for Mobile Crowdsourcing with Privacy Control"
   highlight: 0
   news2:
 
-- title: "Private Data Analytics on Biomedical Sensing Data Via Distributed Computation"
+- title: IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 13, no. 3, pp. 431-444 (2016).
   image: dummy.png
   description: Users generate a high volume of biomedical data during health monitoring, which can be used by the mHealth server for training predictive models for disease diagnosis and treatment. This paper proposes and experimentally studies a scheme that keeps the training samples private while enabling accurate construction of predictive models. 
   authors: Y Gong, Y Fang, Y Guo
   link:
     url: https://ieeexplore.ieee.org/document/7374672
-    display:  IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 13, no. 3, pp. 431-444 (2016)
+    display:  "Private Data Analytics on Biomedical Sensing Data Via Distributed Computation"
   highlight: 0
   news2: 
 
-- title: "A Privacy-Preserving Scheme for Incentive-Based Demand Response in the Smart Grid"
+- title: IEEE Transactions on Smart Grid, vol. 7, no. 3 (2016).
   image: dummy.png
   description: ""
   authors: Y Gong, Y Cai, Y Guo, Y Fang
   link:
     url: https://ieeexplore.ieee.org/document/7069275
-    display: IEEE Transactions on Smart Grid, vol. 7, no. 3 (2016)
+    display: "A Privacy-Preserving Scheme for Incentive-Based Demand Response in the Smart Grid"
   highlight: 0
   news2:
 
-- title: "Energy and Network Aware Workload Management for Sustainable Data Centers with Thermal Storage"
+- title: IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 25, no. 8 (2014). 
   image: SCAUweb.jpg
   description:
   authors:
     Y Guo, Y Gong, Y Fang, P Khargonekar, X Geng
   link:
     url: https://ieeexplore.ieee.org/document/6654159
-    display: IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 25, no. 8 (2014)
+    display: "Energy and Network Aware Workload Management for Sustainable Data Centers with Thermal Storage"
   highlight: 0
