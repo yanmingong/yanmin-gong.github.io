@@ -62,7 +62,7 @@
   description: 
   authors: W Cui, J Yu, Y Gong, E Chan-Tin
   link:
-    url: https://eudl.eu/doi/10.4108/eai.29-1-2019.161977
+    url: eai.29-1-2019.161977.pdf
     display:  "Efficient, Effective, and Realistic Website Fingerprinting Mitigation"
   highlight: 0
   news2: 
@@ -72,7 +72,7 @@
   description: 
   authors: J Wang, S Errapotu, Y Gong, L Qian, R J{\"a}ntti, M Pan, and Z Han
   link:
-    url: https://ieeexplore.ieee.org/document/8360509
+    url: 08360509.pdf
     display:  "Data-Driven Optimization Based Primary Users' Operational Privacy Preservation"
   highlight: 0
   news2:
@@ -82,7 +82,7 @@
   description: 
   authors: Y Guo, M Pan, Y Gong
   link:
-    url: https://ieeexplore.ieee.org/document/8359318
+    url: 08359318.pdf
     display: "Aggregation-Based Colocation Datacenter Energy Management in Wholesale Markets"
   highlight: 0
   news2: 
@@ -92,7 +92,7 @@
   description: 
   authors: X Dong, Y Gong, J Ma, Y Guo
   link:
-    url: https://ieeexplore.ieee.org/document/8299451
+    url: 08299451.pdf
     display: "Protecting Operation-Time Privacy of Primary Users in Downlink Cognitive Two-Tier Networks"
   highlight: 0
   news2:
@@ -102,7 +102,7 @@
   description: 
   authors: Y Gong, C Zhang, Y Fang, J Sun
   link:
-    url: https://ieeexplore.ieee.org/document/7296638
+    url: 07296638.pdf
     display:  "Protecting Location Privacy for Task Allocation in Ad-Hoc Mobile Cloud Computing"
   highlight: 0
   news2:
@@ -112,7 +112,7 @@
   description: 
   authors: Y Guo, M Pan, Y Gong, Y Fang
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/7911246
+    url: 07911246.pdf
     display:  "Dynamic Multi-Tenant Coordination for Sustainable Colocation Data Centers"
   highlight: 0
   news1:
@@ -122,7 +122,7 @@
   description: 
   authors: Y Gong, L Wei, Y Guo, C Zhang, Y Fang
   link:
-    url: https://ieeexplore.ieee.org/document/7365407
+    url: 07365407.pdf
     display:  "Optimal Task Recommendation for Mobile Crowdsourcing with Privacy Control"
   highlight: 0
   news2:
@@ -132,7 +132,7 @@
   description: Users generate a high volume of biomedical data during health monitoring, which can be used by the mHealth server for training predictive models for disease diagnosis and treatment. This paper proposes and experimentally studies a scheme that keeps the training samples private while enabling accurate construction of predictive models. 
   authors: Y Gong, Y Fang, Y Guo
   link:
-    url: https://ieeexplore.ieee.org/document/7374672
+    url: 07374672.pdf
     display:  "Private Data Analytics on Biomedical Sensing Data Via Distributed Computation"
   highlight: 0
   news2: 
@@ -142,7 +142,7 @@
   description: ""
   authors: Y Gong, Y Cai, Y Guo, Y Fang
   link:
-    url: https://ieeexplore.ieee.org/document/7069275
+    url: 07069275.pdf
     display: "A Privacy-Preserving Scheme for Incentive-Based Demand Response in the Smart Grid"
   highlight: 0
   news2:
@@ -153,6 +153,6 @@
   authors:
     Y Guo, Y Gong, Y Fang, P Khargonekar, X Geng
   link:
-    url: https://ieeexplore.ieee.org/document/6654159
+    url: 06654159.pdf
     display: "Energy and Network Aware Workload Management for Sustainable Data Centers with Thermal Storage"
   highlight: 0
