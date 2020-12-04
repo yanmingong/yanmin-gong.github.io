@@ -43,6 +43,7 @@ permalink: /misc/
 <hr>
 
 ### Conference Deadlines
+- [VLDB 2021](http://vldb.org/pvldb/vol14-submission/), monthly deadline.
 - ACM CCS 2021, submission deadline: 21 Jan 2021.
 - [IEEE ICDCS 2020](https://icdcs2021.us/cfp-html), abstract submission deadline: Jan. 6, 2021; full submission deadline: Jan. 13, 2021. Washington DC.
 - [IJCAI 2021](https://ijcai-21.org/cfp/), submission deadline: January 12, 2021. Montreal.
