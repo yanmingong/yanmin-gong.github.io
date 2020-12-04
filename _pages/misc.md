@@ -79,3 +79,5 @@ permalink: /misc/
 - IEEE Internet of Things Journal (IoT-J).
 - IEEE Transactions on Parallel and Distributed Systems.
 - IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Networking (ToN)
+- IEEE Transactions on Vehicular Networks (TVT)
