@@ -7,6 +7,7 @@ permalink: /misc/
 ---
 
 ### Useful Links    
+- [AI/ML Conference Deadlines.](https://aideadlin.es/?sub=ML,NLP)
 - <a href="https://web.cs.dal.ca/~eem/gradResources/KDD/Checklist%20for%20Revising%20a%20SIGKDD%20Data%20Mining%20Paper.pdf" target="_blank">Checklist for Revising a SIGKDD Data Mining Paper. </a> 
 - <a href="http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf" target="_blank">How to do good research, get it published in SIGKDD and get it cited! </a> 
 - <a href="https://sec-deadlines.github.io/" target="_blank">Security and Privacy Conference Deadlines.</a> 
