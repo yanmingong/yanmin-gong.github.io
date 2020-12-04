@@ -7,6 +7,7 @@ permalink: /misc/
 ---
 
 ### Useful Links    
+- [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html)
 - [How to Be a Successful PhD Student (in Computer Science (in NLP/ML))](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 - [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 - [Kevin Gimpel's PhD advice](https://ttic.uchicago.edu/~kgimpel/etc/phd-advice.pdf)
