@@ -81,3 +81,4 @@ permalink: /misc/
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Networking (ToN)
 - IEEE Transactions on Vehicular Networks (TVT)
+- IEEE Journal on Selected Areas in Communications (J-SAC)
