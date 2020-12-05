@@ -66,6 +66,7 @@ permalink: /misc/
 - IEEE Symposium on Security and Privacy, submission deadline: 4 Sep 2020.
 - IEEE PerCom, submission deadline: September 19, 2018. 
 - The Web Conference (formerly International World Wide Web Conference), submission deadline: around Oct. 2020. 
+- ICASSP 2021, submission deadline: around Oct. 2020.
 - PETS 2020 Montréal, Canada.
 - IEEE ICC, submission deadline: Oct. 14, 2019.
 - MobiHoc, submission deadline November 30, 2020. Shangai, China.
