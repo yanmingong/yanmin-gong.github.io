@@ -83,7 +83,7 @@
   image: SCAUweb.jpg
   description:
   authors:
-     J Ding, S Errapotu, H Zhang, Y Gong, M Pan and Z Han,
+     J Ding, S Errapotu, H Zhang, Y Gong, M Pan and Z Han
   link:
     url: Securecomm.pdf
     display: "Stochastic ADMM Based Distributed Machine Learning with Differential Privacy"
