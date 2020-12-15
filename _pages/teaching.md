@@ -1,6 +1,6 @@
 ---
 title: "Yanmin Gong" 
-layout: teaching
+layout: default
 excerpt: "Yanmin Gong - Teaching"
 sitemap: false
 permalink: /teaching/
