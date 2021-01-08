@@ -119,6 +119,17 @@
     display: "Mitigating Traffic Analysis Attack in Smartphones with Edge Network Assistance"
   highlight: 0
   
+
+- title: IEEE Symposium on Privacy-Aware Computing (PAC),  2018
+  image: SCAUweb.jpg
+  description:
+  authors:
+     J Liu, Y Hu, H Yue, Y Gong, Y Fang
+  link:
+    url: 
+    display: "A Cloud-Based Secure and Privacy-Preserving Clustering Analysis of Infectious Disease"
+  highlight: 0  
+  
 - title: IEEE GLOBECOM , Singapore, December 4-8, 2017. 
   image: SCAUweb.jpg
   description:
