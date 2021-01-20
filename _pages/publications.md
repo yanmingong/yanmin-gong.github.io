@@ -25,7 +25,7 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit><a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a></pubtit>
+  <pubtit>{{ publi.link.display }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
@@ -55,7 +55,7 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit><a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a></pubtit>
+  <pubtit>{{ publi.link.display }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
@@ -85,7 +85,7 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit><a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a></pubtit>
+  <pubtit>{{ publi.link.display }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
