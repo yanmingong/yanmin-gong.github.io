@@ -117,7 +117,7 @@ permalink: /publications/
 
 {% for publi in site.data.publistj %}
 
-1. <a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+1. {{ publi.link.display }} <br />
   <em>{{ publi.authors }} </em><br />{{ publi.title }}
 
 {% endfor %}
@@ -126,7 +126,7 @@ permalink: /publications/
 
 {% for publi in site.data.publistc %}
 
-1. <a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+1. {{ publi.link.display }} <br />
   <em>{{ publi.authors }} </em><br />{{ publi.title }}
 
 {% endfor %}
@@ -135,7 +135,7 @@ permalink: /publications/
 
 {% for publi in site.data.publistw %}
 
-1. <a href="{{ site.url }}{{ site.baseurl }}/Publication/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+1. {{ publi.link.display }} <br />
   <em>{{ publi.authors }} </em><br />{{ publi.title }}
 
 {% endfor %}
