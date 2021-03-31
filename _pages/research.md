@@ -27,6 +27,6 @@ We are grateful for funding from National Science Foundation, Air Force Research
 <center><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AFRL.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DoD.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UTS.jpg" style="width: 150px">
 </figure></center>
