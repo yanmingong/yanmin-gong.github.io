@@ -1,9 +1,9 @@
 ---
 title: "Yanmin Gong" 
 layout: teaching
-excerpt: "Yanmin Gong - MISC"
+excerpt: "Yanmin Gong - NSF CRII"
 sitemap: false
-permalink: /misc/
+permalink: /crii/
 ---
 
 ### Useful Links   
