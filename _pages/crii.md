@@ -5,6 +5,7 @@ excerpt: "Yanmin Gong - NSF CRII"
 sitemap: false
 permalink: /crii/
 ---
+### NSF Project (1850523):  CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns
 ### Synopsis
 The goal of this proposal is to limit unintended exposure of privacy information and design privacy mechanisms in centralized dynamic spectrum sharing systems while enabling efficient spectrum sharing. We aim to assess the impact of location privacy countermeasures used by mobile users in crowdsourced spectrum sensing on radio environment map (REM) construction and develop a quality-assured REM construction method to mitigate the dilemma between REM accuracy and location privacy. Obfuscation mechanisms will also be designed to protect primary users’ operating time privacy while ensuring the spectrum efficiency in spectrum allocation.
 
