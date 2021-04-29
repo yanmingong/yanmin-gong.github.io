@@ -5,7 +5,8 @@ excerpt: "Yanmin Gong - NSF CRII"
 sitemap: false
 permalink: /crii/
 ---
-### NSF Project (1850523):  CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns
+## NSF Project (1850523):  CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns
+
 ### Synopsis
 The goal of this proposal is to limit unintended exposure of privacy information and design privacy mechanisms in centralized dynamic spectrum sharing systems while enabling efficient spectrum sharing. We aim to assess the impact of location privacy countermeasures used by mobile users in crowdsourced spectrum sensing on radio environment map (REM) construction and develop a quality-assured REM construction method to mitigate the dilemma between REM accuracy and location privacy. Obfuscation mechanisms will also be designed to protect primary users’ operating time privacy while ensuring the spectrum efficiency in spectrum allocation.
 
@@ -17,6 +18,7 @@ The goal of this proposal is to limit unintended exposure of privacy information
 - Erick Galicia (Undergraduate student)
 - Mario Alday (Undergraduate student)
 - Andy Hernandez (Undergraduate student)
+
 ### Publications
 - Hu, Rui and Guo, Yuanxiong and Li, Hongning and Pei, Qingqi and Gong, Yanmin "Personalized Federated Learning with Differential Privacy" IEEE Internet of Things Journal , 2020 https://doi.org/10.1109/JIOT.2020.2991416 
 - Huang, Zonghao and Hu, Rui and Guo, Yuanxiong and Chan-Tin, Eric and Gong, Yanmin "DP-ADMM: ADMM-Based Distributed Learning With Differential Privacy" IEEE Transactions on Information Forensics and Security , v.15 , 2020 10.1109/TIFS.2019.2931068 
