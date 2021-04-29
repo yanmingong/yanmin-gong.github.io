@@ -19,7 +19,14 @@ The goal of this proposal is to limit unintended exposure of privacy information
 - Andy Hernandez (Undergraduate student)
 
 ### Publications
-- Hu, Rui and Guo, Yuanxiong and Li, Hongning and Pei, Qingqi and Gong, Yanmin "Personalized Federated Learning with Differential Privacy" IEEE Internet of Things Journal , 2020 https://doi.org/10.1109/JIOT.2020.2991416 
+{% for publi in site.data.publistj %}
+{% 1. {{ publi.link.display }} <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.title }}
+ %}
+{% if publi.display == "Personalized Federated Learning with Differential Privacy"%}
+{% endfor %}
+
+- Hu, Rui, Guo, Yuanxiong, Li, Hongning and Pei, Qingqi and Gong, Yanmin "Personalized Federated Learning with Differential Privacy" IEEE Internet of Things Journal , 2020 https://doi.org/10.1109/JIOT.2020.2991416 
 - Huang, Zonghao and Hu, Rui and Guo, Yuanxiong and Chan-Tin, Eric and Gong, Yanmin "DP-ADMM: ADMM-Based Distributed Learning With Differential Privacy" IEEE Transactions on Information Forensics and Security , v.15 , 2020 10.1109/TIFS.2019.2931068 
 - Yu, Zhe and Gong, Yanmin and Gong, Shimin and Guo, Yuanxiong "Joint Task Offloading and Resource Allocation in UAV-Enabled Mobile Edge Computing" IEEE Internet of Things Journal , v.7 , 2020 10.1109/JIOT.2020.2965898 
 - Hu, Rui and Guo, Yuanxiong and Li, Hongning and Pei, Qingqi and Gong, Yanmin "Privacy-Preserving Personalized Federated Learning" ICC 2020 - 2020 IEEE International Conference on Communications (ICC) , 2020 10.1109/ICC40277.2020.9149207 
