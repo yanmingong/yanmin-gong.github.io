@@ -7,26 +7,23 @@ permalink: /crii/
 ---
 ## NSF CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns (CNS-1850523)
 
+### Project Information
+[CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850523&HistoricalAwards=false),  (CNS-1850523)
+ National Science Foundation, September 1, 2018 – August 31, 2021. This is a collaborative project of University of Houston (PI: Dr. Miao Pan, Co-PIs: Drs. Gangbing Song, and Jiefu Chen), University of Alabama (PI: Dr. Aijun Song), and Texas Southern University (PI: Dr. Xuemin Chen).
+
 ### Synopsis
 The goal of this proposal is to limit unintended exposure of privacy information and design privacy mechanisms in centralized dynamic spectrum sharing systems while enabling efficient spectrum sharing. We aim to assess the impact of location privacy countermeasures used by mobile users in crowdsourced spectrum sensing on radio environment map (REM) construction and develop a quality-assured REM construction method to mitigate the dilemma between REM accuracy and location privacy. Obfuscation mechanisms will also be designed to protect primary users’ operating time privacy while ensuring the spectrum efficiency in spectrum allocation.
 
 ### Personnel
-- Rui Hu (current PhD student)
-- Yu Zhang (current PhD student)
-- Shahira Hany (Alumni)
-- Erick Galicia (Undergraduate student)
-- Mario Alday (Undergraduate student)
-- Andy Hernandez (Undergraduate student)
+- Ms. Rui Hu, PhD student 
+- Mr. Yu Zhang, PhD student
+- Ms. Shahira Hany, Research Assistant
+- Erick Galicia, Undergraduate student (REU)
+- Mario Alday, Undergraduate student (REU)
+- Andy Hernandez, Undergraduate student (REU)
 
 ### Publications
-{% for publi in site.data.publistj %}
-{% 1. {{ publi.link.display }} <br />
-  <em>{{ publi.authors }} </em><br />{{ publi.title }}
- %}
-{% if publi.display == "Personalized Federated Learning with Differential Privacy"%}
-{% endfor %}
-
-- Hu, Rui, Guo, Yuanxiong, Li, Hongning and Pei, Qingqi and Gong, Yanmin "Personalized Federated Learning with Differential Privacy" IEEE Internet of Things Journal , 2020 https://doi.org/10.1109/JIOT.2020.2991416 
+- R Hu, Guo, Yuanxiong, Li, Hongning and Pei, Qingqi and Gong, Yanmin "Personalized Federated Learning with Differential Privacy" IEEE Internet of Things Journal , 2020 https://doi.org/10.1109/JIOT.2020.2991416 
 - Huang, Zonghao and Hu, Rui and Guo, Yuanxiong and Chan-Tin, Eric and Gong, Yanmin "DP-ADMM: ADMM-Based Distributed Learning With Differential Privacy" IEEE Transactions on Information Forensics and Security , v.15 , 2020 10.1109/TIFS.2019.2931068 
 - Yu, Zhe and Gong, Yanmin and Gong, Shimin and Guo, Yuanxiong "Joint Task Offloading and Resource Allocation in UAV-Enabled Mobile Edge Computing" IEEE Internet of Things Journal , v.7 , 2020 10.1109/JIOT.2020.2965898 
 - Hu, Rui and Guo, Yuanxiong and Li, Hongning and Pei, Qingqi and Gong, Yanmin "Privacy-Preserving Personalized Federated Learning" ICC 2020 - 2020 IEEE International Conference on Communications (ICC) , 2020 10.1109/ICC40277.2020.9149207 
