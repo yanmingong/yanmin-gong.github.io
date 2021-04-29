@@ -14,7 +14,6 @@ The goal of this proposal is to limit unintended exposure of privacy information
 - Rui Hu (current PhD student)
 - Yu Zhang (current PhD student)
 - Shahira Hany (Alumni)
-- Zonghao Huang (Alumni)
 - Erick Galicia (Undergraduate student)
 - Mario Alday (Undergraduate student)
 - Andy Hernandez (Undergraduate student)
