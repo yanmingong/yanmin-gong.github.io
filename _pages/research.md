@@ -22,7 +22,7 @@ The Trustworthy and Intelligent Networked Systems (TINS) Lab at University of Te
 - Internet of things: robotics and connected vehicles
 
 
-### Funding
+### Research Projects
 We are grateful for funding from National Science Foundation, Air Force Research Lab, Department of Defense, and University of Texas Systems.
 
 - NSF CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns ([project webpage](https://yanmingong.github.io/crii))
