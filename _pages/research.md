@@ -25,8 +25,10 @@ The Trustworthy and Intelligent Networked Systems (TINS) Lab at University of Te
 ### Research Projects
 We are grateful for funding from National Science Foundation, Air Force Research Lab, Department of Defense, and University of Texas Systems.
 
-- NSF CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns ([project webpage](https://yanmingong.github.io/crii))
+- CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns ([project webpage](https://yanmingong.github.io/crii)), National Science Foundation, $175,000, 10/01/2019 - 09/30/2021, PI.
 
+- NSF RAPID: Collaborative: Location Privacy Preserving COVID-19 Symptom Map Construction via Mobile Crowdsourcing for Proactive Constrained Resource Allocation'', National Science Foundation, $100,000, 05/04/2020 - 05/03/2021, Co-PI.
+- 
 <center><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AFRL.png" style="width: 150px">
