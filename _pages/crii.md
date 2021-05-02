@@ -5,7 +5,7 @@ excerpt: "Yanmin Gong - NSF CRII"
 sitemap: false
 permalink: /crii/
 ---
-## NSF CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns (CNS-1850523)
+## NSF CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns 
 
 ### Project Information
 CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns, [link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850523&HistoricalAwards=false),  (CNS-1850523), Oct. 1, 2019 – Sep. 30, 2021.
