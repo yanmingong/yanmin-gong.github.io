@@ -27,7 +27,7 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 - CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns ([project webpage](https://yanmingong.github.io/crii)), National Science Foundation, $191,000, 10/01/2019 - 09/30/2021, PI.
 
-- NSF RAPID: Collaborative: Location Privacy Preserving COVID-19 Symptom Map Construction via Mobile Crowdsourcing for Proactive Constrained Resource Allocation'', National Science Foundation, $100,000, 05/04/2020 - 05/03/2021, Co-PI.
+- NSF RAPID: Collaborative: Location Privacy Preserving COVID-19 Symptom Map Construction via Mobile Crowdsourcing for Proactive Constrained Resource Allocation, National Science Foundation, $100,000, 05/04/2020 - 05/03/2021, Co-PI.
 
 - Association of Cyber and Visual IDs of Drones with Backscatter Tags, Air Force Research Laboratory, $10,000, 10/01/2019 - 01/01/2020, PI.
 
