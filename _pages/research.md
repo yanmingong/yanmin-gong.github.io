@@ -22,7 +22,7 @@ The Trustworthy and Intelligent Networked Systems (TINS) Lab at University of Te
 - Internet of things: robotics and connected vehicles
 
 
-### Research Projects
+### Funded Research Projects and Sponsors
 We are grateful for funding from National Science Foundation, Air Force Research Lab, Department of Defense, and University of Texas Systems.
 
 #### Active Projects
