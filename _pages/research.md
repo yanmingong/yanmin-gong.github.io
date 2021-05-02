@@ -27,7 +27,7 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 #### Active Projects
 
-- A Flexible Testbed for Cyber Deception, Cyber Hardening, and Disinformation Research'', Department of Defense, $472,921, 07/01/2021 - 06/30/2022, Co-PI.
+- A Flexible Testbed for Cyber Deception, Cyber Hardening, and Disinformation Research, Department of Defense, $472,921, 07/01/2021 - 06/30/2022, Co-PI.
 
 - CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns ([project webpage](https://yanmingong.github.io/crii)), National Science Foundation, $191,000, 10/01/2019 - 09/30/2021, PI.
 
