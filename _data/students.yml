@@ -23,16 +23,16 @@
   number_educ: 0
   education1:
 
-- name: Mario Alday
-  photo: Mario.jpg
-  info: Undergraduate student
-  email: aldaymario25@gmail.com
-  number_educ: 0
-  education1:
-
- - name: Andy Hernandez
+- name: Andy Hernandez
   photo: Andy.jpg
   info: Undergraduate student
   email: xlm203@my.utsa.edu
+  number_educ: 0
+  education1:
+
+- name: Mario Alday
+  photo: Mario.png
+  info: Undergraduate student
+  email: aldaymario25@gmail.com
   number_educ: 0
   education1:
