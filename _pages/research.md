@@ -27,7 +27,7 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 #### Active Projects
 
-- CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking, National Science Foundation (Recommended), $509,014, Sole PI.
+- CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking, National Science Foundation (Recommended for Funding), $509,014, Sole PI.
 
 - A Flexible Testbed for Cyber Deception, Cyber Hardening, and Disinformation Research, Department of Defense, $472,921, 07/01/2021 - 06/30/2022, Co-PI.
 
