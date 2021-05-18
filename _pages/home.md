@@ -29,6 +29,7 @@ My current research interests focus on security and privacy, machine learning, I
     
 
 ### Selected Honors and Awards
+- NSF CAREER Award, 2021
 - NSF CISE CRII Award, 2019
 - Distinguished TPC Member, IEEE INFOCOM, 2020
 - UT Rising STARs Award, 2019
