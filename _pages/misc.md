@@ -61,6 +61,7 @@ permalink: /misc/
 - ACM International Conference on Information and Knowledge Management (CIKM), June 2021.
 - ICDE 2021, submission deadline: 10 June 2020. Chania, Greece. 
 - NDSS 2021, submission deadline: 18 Jul 2020. San Diego, CA, USA.
+- MILCOM 2021, submission deadline: 2 Jul 2021. San Diego, CA, USA.
 - WPES 2020, submission deadline: July 23, 2020. Orlando, USA 
 - IEEE Infocom 2021, submission deadline: 15 Aug., 2020. Vancouver, Canada. 
 - AAAI, August, 2021.
