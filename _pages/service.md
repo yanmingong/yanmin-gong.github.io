@@ -21,7 +21,7 @@ permalink: /service/
 #### TPC Members
 - IEEE International Conference on Computer Communications (INFOCOM), 2017 -- 2021
 - IEEE  Conference on Communications and Network Security (CNS), 2017, 2018, 2021
-- IEEE Global Communications Conference， 2021
+- IEEE Global Communications Conference, 2021
 - International Joint Conference on Artificial Intelligence and the Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI), 2020
 - IEEE International Conference on Communications (ICC), 2018
 - IEEE/CIC International Conference on Communications in China (ICCC), 2017
