@@ -7,6 +7,17 @@
     url: 09082603.pdf
   highlight: 1
   news2:
+  
+- title:  IEEE Transactions on Mobile Computing (TMC) (2021).
+  image: 
+  authors: X Dong, Y Zhang, Y Guo, Y Gong, Y Shen, and J Ma
+  description: 
+  link:
+    display: "PRAM: a Practical Sybil-Proof Auction Mechanism for Dynamic Spectrum Access with Untruthful Attackers"
+    url: 
+  highlight: 0
+  news2:
+  
 
 - title: IEEE Internet of Things Journal (IoT-J) 7, 4 (2020).
   image: TBG_ARPES.png
