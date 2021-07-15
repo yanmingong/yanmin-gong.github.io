@@ -31,6 +31,7 @@ permalink: /service/
 #### Journal Review
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Internet of Things Journal
+- IEEE/ACM Transactions on Networking
 - IEEE Transactions on Parallel and Distributed Systems
 - IEEE Transactions on Services Computing
 - IEEE Transactions on Information Forensics & Security
